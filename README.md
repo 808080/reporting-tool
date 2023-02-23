@@ -6,6 +6,7 @@ Features:
 - CSV and Excel formats support
 - File validation and verbose feedback
 - Data representation as a scatter chart and a table
+- Routes protection and intuitive workflow (impossible to get lost)
 - Multipage application with 100% server side rendering (like back in good ol' times)
 
 ## Run with Docker
@@ -15,6 +16,7 @@ Use the following command in the root directory
 ```
 docker-compose up
 ```
+The container would be available at localhost:3000
 
 ## Developing
 
